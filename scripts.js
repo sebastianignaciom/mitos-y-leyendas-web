@@ -1,4 +1,4 @@
-const API_URL = "https://backmitosyleyendas.vercel.app/"; // Reemplaza con la URL de tu backend
+const API_URL = "https://backmitosyleyendas.vercel.app"; // Reemplaza con la URL de tu backend
 
 document.getElementById("subscriptionForm").addEventListener("submit", async function (event) {
     event.preventDefault();
